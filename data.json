@@ -1,0 +1,32 @@
+{
+    // "work1": {
+    // "image": "./images/carton_img.png",
+    // "title": "Project Manager",
+    // "compeny": "Afcon Software & Electronics",
+    // "location": "petech tekva",
+    // "Start Date": "November 2017",
+    // "End Date": "July 2019",
+    // "Description": "Project Manager. High and Low Voltage Power System Engineer. troubleshooting & fixing industrial facilities power systems. yearly check and approve of large facilities like skyscrapers, hospitals, malls, servers farms etc. ABB certificate of handling and fixing circuit breakers.",
+    // "link": ""
+    // },
+    // "work2": {
+    //     "image": "./images/carton_img2.png",
+    //     "title": "PO-project manager",
+    //     "compeny": "Or-Star",
+    //     "location": "Irus",
+    //     "Start Date": "May 2013",
+    //     "End Date": "November 2017",
+    //     "Description": "project manager at Or-Star, Or - Star is an apps and websites design and development company. responsibility on clients, deadlines, product characterization, functionality and projects teams. worked with IOS, Android, Joomla, Magento, WordPress, html, css, UI / UX, design, sql, DB, CPanel, Jira, MS Project.",
+    //     "link": "http://www.or-star.co.il/"
+    // }
+
+
+
+
+
+    "name": "Molecule Man",
+    "age": 29,
+    "secretIdentity": "Dan Jukes",
+    "powers": ["Radiation resistance", "Turning tiny", "Radiation blast"]
+
+}
